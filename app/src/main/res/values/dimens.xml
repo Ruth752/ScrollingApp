@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="head">30sp</dimen>
+    <dimen name="head1">20dp</dimen>
+    <dimen name="image1">300dp</dimen>
+    <dimen name="text1">25sp</dimen>
+</resources>
